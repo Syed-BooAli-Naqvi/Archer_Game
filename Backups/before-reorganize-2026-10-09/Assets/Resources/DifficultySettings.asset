@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe4b5e9c5c947dd95d9639a98771f92, type: 3}
+  m_Name: DifficultySettings
+  m_EditorClassIdentifier: Assembly-CSharp::DifficultySettings
+  enabled: 1
+  scaleWithPower: 1
+  scalingStartsAtPower: 3.5
+  enemyHealthExponent: 0.65
+  enemyCountExponent: 0.45
+  bossHealthExponent: 0.5
+  maxEnemiesPerWave: 45
+  keepEnemiesInFront: 1
+  frontLineOffset: 1.2
+  betterSpacing: 1
+  enemySpacing: 1.35
+  playerClearance: 1.8
+  bossClearance: 2.6
+  chargeStopShort: 3
+  maxSimultaneousAttackers: 3
+  particleBudget: 1
+  maxParticlesPerSystem: 40
+  particleEmissionScale: 0.5
+  stopClearOfGates: 1
+  keepEnemiesOnScreen: 1
+  screenEdgeMargin: 0.07
+  spawnOffscreen: 1
+  arrowFade: 1
+  arrowFadeTime: 0.35
+  trickleEnemies: 1
+  trickleWhenAliveAtMost: 2
+  trickleInterval: 2.5
+  trickleGroupMin: 2
+  trickleGroupMax: 4
+  environmentCoins: 1
+  coinBundleInterval: 8
+  coinsPerBundle: 7
+  coinValue: 5
+  killSound: 1
+  damageNumbers: 1
+  damageNumberFont: {fileID: 11400000, guid: c1482dbce654844b9ba1c753cbea5d80, type: 2}
+  cameraShakeOnGates: 1
+  gateShakeDuration: 0.12
+  gateShakeStrength: 0.08
+  gateShakeCooldown: 0.15
+  booster: 1
+  boosterInterval: 20
+  boosterHealth: 10
+  boosterDamageRange: 11
+  boosterArrowMultiplier: 2
+  boosterVolleys: 2
+  boosterVolleyGap: 0.2
+  boosterButtonSprite: {fileID: 21300000, guid: ef337475efc8f47e0a137be142ee61c3, type: 3}
+  nextWaveWhenCleared: 1
+  clearBreather: 1
+  bossChargeAttacks: 1
+  bossHoldDistance: 7
+  chargeInterval: 3
+  chargeTelegraphTime: 1
+  chargeSpeed: 14
+  chargeDamage: 30
+  chargeHitRadius: 1.4
+  bossMinions: 1
+  minionInterval: 12
+  minionCount: 2

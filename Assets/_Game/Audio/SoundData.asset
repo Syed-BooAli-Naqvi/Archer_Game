@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e7005143a7b44d18e221d83a98b09a, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: Assembly-CSharp::SoundData
+  SetName: 0
+  sounds:
+  - name: 
+    soundName: 1
+    clip: {fileID: 8300000, guid: f96090e21856847798de5e2fc70f62ca, type: 3}
+    volume: 0.3
+    loop: 1
+  - name: 
+    soundName: 2
+    clip: {fileID: 8300000, guid: bca351544565743379c54a30ea7c3b75, type: 3}
+    volume: 1
+    loop: 0
+  - name: 
+    soundName: 3
+    clip: {fileID: 8300000, guid: d7bcd78a048842dc9b9b800812e55f83, type: 3}
+    volume: 0.5
+    loop: 0
+  - name: 
+    soundName: 4
+    clip: {fileID: 8300000, guid: 0fc4292519a77430e993b2eed8c72d62, type: 3}
+    volume: 0.5
+    loop: 0
+  - name: 
+    soundName: 5
+    clip: {fileID: 8300000, guid: 04fc95ddb3038407a978e34581aa2505, type: 3}
+    volume: 0.3
+    loop: 0
+  - name: 
+    soundName: 6
+    clip: {fileID: 8300000, guid: f61685420b8234bf59cda3be1dd3793d, type: 3}
+    volume: 0.8
+    loop: 0
+  - name: 
+    soundName: 7
+    clip: {fileID: 8300000, guid: 4ce78228fd6594985ac26c618265d699, type: 3}
+    volume: 1
+    loop: 0
+  - name: 
+    soundName: 8
+    clip: {fileID: 8300000, guid: 00061ba38125049ba8a82ef7792e2424, type: 3}
+    volume: 1
+    loop: 0
+  - name: 
+    soundName: 9
+    clip: {fileID: 8300000, guid: 40e31b9a5f444d7dbeed52d677461607, type: 3}
+    volume: 0.3
+    loop: 0
+  - name: 
+    soundName: 10
+    clip: {fileID: 8300000, guid: 7cd1bf4eafa8444282dc6ef818fa3deb, type: 3}
+    volume: 1
+    loop: 0
+  - name: 
+    soundName: 11
+    clip: {fileID: 8300000, guid: 1714bc559d3044bdbf2eb235ea141631, type: 3}
+    volume: 0.6
+    loop: 0
+  - name: 
+    soundName: 12
+    clip: {fileID: 8300000, guid: f61685420b8234bf59cda3be1dd3793d, type: 3}
+    volume: 0.8
+    loop: 0
+  - name: 
+    soundName: 13
+    clip: {fileID: 8300000, guid: cdb983c42a404575a102508ee049c562, type: 3}
+    volume: 0.8
+    loop: 0
+  - name: 
+    soundName: 14
+    clip: {fileID: 8300000, guid: 1bf9ce4d4e8543febbd4c4b61a927a6f, type: 3}
+    volume: 1
+    loop: 0
+  - name: 
+    soundName: 15
+    clip: {fileID: 8300000, guid: d579c0ca7ae1474b80c94ea8e10c18f2, type: 3}
+    volume: 0.7
+    loop: 0
+  - name: 
+    soundName: 16
+    clip: {fileID: 8300000, guid: cbcb844c9567f4993af6bd4740503f8a, type: 3}
+    volume: 0.25
+    loop: 1
